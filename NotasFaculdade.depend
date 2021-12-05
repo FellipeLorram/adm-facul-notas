@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623943649 source:c:\users\felli\desktop\faculdade fellipe\notasfaculdade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1623943649 source:c:\users\beatr\onedrive\Área de trabalho\faculdade fellipe\notasfaculdade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
